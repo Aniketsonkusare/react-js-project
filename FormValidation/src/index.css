@@ -1,0 +1,15 @@
+.submit{
+  background-color: blue;
+  color: white;
+  border-radius: 5px;
+  padding: 5px;
+  font-size: 20px;
+}
+
+span{
+  color: red;
+}
+
+body{
+  background-color: goldenrod;
+}
